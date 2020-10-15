@@ -1,0 +1,4 @@
+[2020-10-15 16:05:54.623]-[INFO:electron_api_app.cc(1678)] 10/15 16:05:54.623 - Using core /home/hemanth/OpenFin/Runtime/17.85.53.10/resources/app.asar
+[2020-10-15 16:05:54.750]-[INFO:electron_api_app.cc(1678)] 10/15 16:05:54.750 - multi-runtime mode enabled
+[2020-10-15 16:05:54.811]-[INFO:electron_api_app.cc(1678)] 10/15 16:05:54.811 - Installing API policy PreProcessor {}
+[2020-10-15 16:05:54.983]-[INFO:electron_api_app.cc(1678)] 10/15 16:05:54.983 - build architecture: x64
